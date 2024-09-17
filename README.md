@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sudhi Kumaran S K</h1>
-<h3 align="center">A passionate Cloud Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhikumaran&label=Profile%20views&color=0e75b6&style=flat" alt="sudhikumaran" /> </p>
 
-- 🌱 I’m currently learning **cloud computing**
+- 🌱 I’m currently learning DSA in **Python & Java**
 
 - 📫 How to reach me **sudhikumaran2005@gmail.com**
 
