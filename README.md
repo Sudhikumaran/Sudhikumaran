@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My Digital Space
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Sudhi+Kumaran+S+K;Full-Stack+Developer+%7C+Software+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Sudhi+Kumaran+S+K;Full-Stack+Developer+%7C+UI+Enthusiast" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+elegant+solutions+with+MERN+%26+Flutter;Turning+coffee+into+code+%E2%98%95%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Subtitle" />
 
